@@ -19,8 +19,8 @@ Now it is it time to finish off this register project.  As you implement the fun
 * Create a a view called `transactionSummary` that summarizes the transactions in the archive table.  It should show:
 
 ```
-|field        | Description |
-|-------------|-------------|
+|field        | Description                                         |
+|-------------|-----------------------------------------------------|
 |transactionID| The transaction ID on which you will be grouping    |
 |startTime    | earliest time stamp of a button in that transaction |
 |stopTime     | latest time stamp of a button in that transaction   |
